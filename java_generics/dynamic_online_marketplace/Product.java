@@ -1,3 +1,5 @@
+package java_collections_streams.java_generics.dynamic_online_marketplace;
+
 public class Product<T extends ProductCategory> {
     private String name;
     private double price;

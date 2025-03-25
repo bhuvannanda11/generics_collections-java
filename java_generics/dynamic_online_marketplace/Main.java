@@ -1,3 +1,5 @@
+package java_collections_streams.java_generics.dynamic_online_marketplace;
+
 public class Main {
     public static void main(String[] args) {
         Product<ProductCategory> book1 = new Product<>("Java Programming", 45.99, ProductCategory.BOOK);
