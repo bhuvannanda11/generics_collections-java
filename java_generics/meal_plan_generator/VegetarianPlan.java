@@ -1,3 +1,5 @@
+package java_collections_streams.java_generics.meal_plan_generator;
+
 public class VegetarianPlan implements MealPlan{
     private String mealName;
     private int calories;

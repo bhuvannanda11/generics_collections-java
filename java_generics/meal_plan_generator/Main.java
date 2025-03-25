@@ -1,5 +1,5 @@
-import java.util.ArrayList;
-import java.util.List;
+package java_collections_streams.java_generics.meal_plan_generator;
+import java.util.*;
 
 public class Main {
     public static void main(String[] args) {
