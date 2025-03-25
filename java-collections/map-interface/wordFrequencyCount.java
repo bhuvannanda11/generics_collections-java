@@ -3,7 +3,7 @@ import java.util.*;
 import java.io.FileReader;
 import java.io.BufferedReader;
 
-public class wordFrequencyCount {
+public class wordFrequencyCount{
     public static Map<String, Integer> countWordFrequency(String filePath) throws IOException {
         Map<String, Integer> wordCountMap = new HashMap<>();
         BufferedReader reader = new BufferedReader(new FileReader("C:\\Users\\Prashant\\Documents\\example.txt"));
