@@ -1,3 +1,5 @@
+package java_collections_streams.java_generics.resume_screening_system;
+
 public abstract class JobRole {
     private String candidateName;
     private String skills;
